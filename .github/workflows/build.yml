@@ -5,7 +5,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: ./WARP-LAB04/lab04/lab04.csproj
+  PROJECT_PATH: ./lab04/lab04.csproj
 
 
 jobs:
