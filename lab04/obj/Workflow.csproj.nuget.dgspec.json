@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37379\\Workflow\\Workflow.csproj": {}
+    "C:\\Users\\s37379\\WARP-LAB07\\lab04\\Workflow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37379\\Workflow\\Workflow.csproj": {
+    "C:\\Users\\s37379\\WARP-LAB07\\lab04\\Workflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37379\\Workflow\\Workflow.csproj",
+        "projectUniqueName": "C:\\Users\\s37379\\WARP-LAB07\\lab04\\Workflow.csproj",
         "projectName": "Workflow",
-        "projectPath": "C:\\Users\\s37379\\Workflow\\Workflow.csproj",
+        "projectPath": "C:\\Users\\s37379\\WARP-LAB07\\lab04\\Workflow.csproj",
         "packagesPath": "C:\\Users\\s37379\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37379\\Workflow\\obj\\",
+        "outputPath": "C:\\Users\\s37379\\WARP-LAB07\\lab04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37379\\AppData\\Roaming\\NuGet\\NuGet.Config"
